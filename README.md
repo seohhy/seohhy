@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to me  
   
 
-- ⚡ TMI: I love YOGA!!  
+- ⚡ TMI: I love YOGA!!!
   
 
 <br/>  
