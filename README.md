@@ -97,7 +97,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <div align="center">
-<a href="https://www.notion.so/14fce3b5c8b98001bd66e882390d4b28?pvs=4" target="_blank"> notion</a></div>
+<!-- <a href="https://www.notion.so/14fce3b5c8b98001bd66e882390d4b28?pvs=4" target="_blank"> notion</a></div> -->
 
 
 
